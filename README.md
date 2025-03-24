@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fff&height=120&section=header"/>
 
-[![Introduction](https://readme-typing-svg.herokuapp.com/?color=fff&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Gustavo+Monteiro;I+am+from+Sorocaba,+SP;I+study+Analysis+and+Systems+Development+at+Senai;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Introduction](https://readme-typing-svg.herokuapp.com/?color=fff&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Gustavo+Monteiro;Pursuing+Tech+in+Analysis+and+Systems+Development+at+SENAI+Gaspar+Ricardo+Júnior;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">
   <a href="https://gmgpx.netlify.app" target="_blank">Portfolio</a>
