@@ -2,17 +2,20 @@
 
 [![Introduction](https://readme-typing-svg.herokuapp.com/?color=fff&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Gustavo+Monteiro;I+am+from+Sorocaba,+SP;I+study+Analysis+and+Systems+Development+at+Senai;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-profile-trophy.vercel.app/?username=gmgpx&theme=dark&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" alt="" /> 
+<div align="center">
+  <a href="https://gmgpx.netlify.app" target="_blank">Portfolio</a>
+</div> 
+
+<br>
+
+<div align="center">
+  <img width="49%" height="195px" src="https://github-profile-trophy.vercel.app/?username=gmgpx&theme=dark&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmgpx&layout=compact&hide_border=true&title_color=fff&text_color=fff&bg_color=0d1117" />
 </div>
 
 <br>
 
 [![Atividade](https://github-readme-activity-graph.vercel.app/graph?username=gmgpx&bg_color=000000&color=ffffff&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-## 📎[Portfolio](gmgpx.netlify.app)
-
 
 ### 🔧 Tools  
 
