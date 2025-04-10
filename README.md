@@ -4,14 +4,15 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmgpx&layout=compact&hide_border=true&title_color=fff&text_color=fff&bg_color=0d1117" width="40%" height="300px" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gmgpx&radius=16&theme=react&area=true&order=5" height="300" width="59%" />
-  <img src="https://raw.githubusercontent.com/gmgpx/gmgpx/output/snake.svg" height="300" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gmgpx&radius=20&theme=react&area=true&order=5" height="300" width="59%" />
+  <img src="https://raw.githubusercontent.com/gmgpx/gmgpx/output/snake.svg" width="100%" />
 </div>
 
 <br>
 <br>
 
 <div align="center">
+  <h3>Tecnologies</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
@@ -148,11 +149,18 @@
 <br>
 <br>
 
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  <h3>Contact Me</h3>
+  <a href="https://www.linkedin.com/in/gustavo-monteiro-727450210/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn logo" />
+  </a>
+  <a href="mailto:gugapires92@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Gmail logo" />
+  </a>
+  <a href="https://gmgpx.netlify.app" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/visualstudio/default.svg" width="52" height="40" alt="Portfólio logo" />
+  </a>
 </div>
 
 <br>
