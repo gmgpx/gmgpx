@@ -1,8 +1,8 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fff&height=120&section=header"/>
+<img style="pointer-events: none;" width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fff&height=120&section=header"/>
 
-[![Introduction](https://readme-typing-svg.herokuapp.com/?color=fff&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Gustavo+Monteiro;Pursuing+Tech+in+Analysis+and+Systems+Development+at+SENAI+Gaspar+Ricardo+Júnior;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Introduction](https://readme-typing-svg.herokuapp.com/?color=fff&center=true&vCenter=true&width=900&lines=Hello,+my+name+is+Gustavo+Monteiro;Studying+Systems+Analysis+and+Development+at+SENAI+College+of+Technology;Be+Welcome!)](https://git.io/typing-svg)
 
-<div align="center">
+<div style="pointer-events: none;" align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmgpx&layout=compact&hide_border=true&title_color=fff&text_color=fff&bg_color=0d1117" width="40%" height="300px" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=gmgpx&radius=20&theme=react&area=true&order=5" height="300" width="59%" />
   <img src="https://raw.githubusercontent.com/gmgpx/gmgpx/output/snake.svg" width="100%" />
@@ -11,7 +11,7 @@
 <br>
 <br>
 
-<div align="center">
+<div style="pointer-events: none;" align="center">
   <h3>Tecnologies</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
@@ -165,4 +165,4 @@
 
 <br>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fff&height=120&section=footer"/>
+<img style="pointer-events: none;" width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fff&height=120&section=footer"/>
