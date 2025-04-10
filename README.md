@@ -2,14 +2,13 @@
 
 [![Introduction](https://readme-typing-svg.herokuapp.com/?color=fff&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Gustavo+Monteiro;Pursuing+Tech+in+Analysis+and+Systems+Development+at+SENAI+Gaspar+Ricardo+Júnior;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<br>
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmgpx&layout=compact&hide_border=true&title_color=fff&text_color=fff&bg_color=0d1117" width="40%" height="300px" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=gmgpx&radius=16&theme=react&area=true&order=5" height="300" width="59%" />
-  <img src="https://raw.githubusercontent.com/gmgpx/gmgpx/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/gmgpx/gmgpx/output/snake.svg" height="300" width="100%" />
 </div>
 
+<br>
 <br>
 
 <div align="center">
@@ -146,6 +145,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="40" alt="webpack logo"  />
 </div>
 
+<br>
 <br>
 
 <div align="center">
